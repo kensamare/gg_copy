@@ -1,0 +1,1 @@
+{"className":"PostModel","fileName":"post_model.dart","imports":["data_model.dart"],"fields":[{"json_field":"err","name":"err","isSnakeCase":true,"type":"List<int>?"},{"json_field":"err_msg","name":"errMsg","isSnakeCase":true,"type":"List<dynamic>?"},{"json_field":"data","name":"data","isSnakeCase":false,"type":"List<DataModel>?"}]}

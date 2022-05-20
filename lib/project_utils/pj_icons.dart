@@ -1,0 +1,44 @@
+import 'package:gg_copy/models/self_model.dart';
+
+class PjIcons {
+  static String get appleid => 'assets/icons/applied.svg';
+  static String get comment => 'assets/icons/comment.svg';
+  static String get dotsMenu => 'assets/icons/dots_menu.svg';
+  static String get decline => 'assets/icons/decline.svg';
+  static String get heart => 'assets/icons/heart.svg';
+  static String get likedHeart => 'assets/icons/liked_heart.svg';
+  static String get menu => 'assets/icons/menu.svg';
+  static String get plus => 'assets/icons/plus.svg';
+  static String get share => 'assets/icons/share.svg';
+  static String get share2 => 'assets/icons/share_2.svg';
+  static String get arrowDown => 'assets/icons/arrow_down.svg';
+  static String get arrowLeft => 'assets/icons/arrow_left.svg';
+  static String get avatar => 'assets/icons/avatar.svg';
+  static String get exit => 'assets/icons/exit.svg';
+  static String get add => 'assets/icons/add.svg';
+  static String get addAlt => 'assets/icons/add_alt.svg';
+  static String get heartAlt => 'assets/icons/heart_alt.svg';
+  static String get heartMenu => 'assets/icons/heart_menu.svg';
+  static String get home => 'assets/icons/home.svg';
+  static String get homeAlt => 'assets/icons/home_alt.svg';
+  static String get search => 'assets/icons/search.svg';
+  static String get searchAlt => 'assets/icons/search_alt.svg';
+  static String get profile => 'assets/icons/profile.png';
+  static String get ochko => 'assets/icons/ochko.png';
+  static String get errorHeart => 'assets/icons/error_heart.png';
+  static String get arrowRight => 'assets/icons/arrow_right.svg';
+  static String get validate => 'assets/icons/validate.svg';
+  static String get scale => 'assets/icons/scale.svg';
+  static String get camera => 'assets/icons/camera.svg';
+  static String get trash => 'assets/icons/mda_trash.svg';
+  static String get app_logo => 'assets/icons/app_logo.svg';
+  static String get repost => 'assets/icons/repost.svg';
+  static String get rabbits => 'assets/icons/rabbits.png';
+  static String get checkBox => 'assets/icons/checkbox_arrow.svg';
+  static String get gallery => 'assets/icons/gallery.svg';
+  static String get cameraPost => 'assets/icons/camera_post.svg';
+  static String get commentReply => 'assets/icons/comment_reply.svg';
+  static String get bookmark => 'assets/icons/bookmark.svg';
+  static String get bookmarkFilled => 'assets/icons/bookmark_filled.svg';
+  static String get reorderPosts => 'assets/icons/reorder_posts.svg';
+}

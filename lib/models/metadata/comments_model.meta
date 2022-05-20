@@ -1,0 +1,1 @@
+{"className":"CommentsModel","fileName":"comments_model.dart","imports":["data_model.dart","comment_data_model.dart"],"fields":[{"json_field":"count","name":"count","isSnakeCase":true,"type":"int?"},{"json_field":"data","name":"data","isSnakeCase":false,"type":"List<CommentDataModel>?"}]}

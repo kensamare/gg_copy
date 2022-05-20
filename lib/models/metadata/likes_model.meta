@@ -1,0 +1,1 @@
+{"className":"LikesModel","fileName":"likes_model.dart","imports":["users_model.dart"],"fields":[{"json_field":"count","name":"count","isSnakeCase":true,"type":"int?"},{"json_field":"users","name":"users","isSnakeCase":true,"type":"List<UsersModel>?"}]}
